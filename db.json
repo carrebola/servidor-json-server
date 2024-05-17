@@ -1,0 +1,31 @@
+{
+  "usuarios": [
+    {
+      "id": "2",
+      "nombre": "Ana",
+      "apellidos": "Cerezas"
+    },
+    {
+      "id": "4915",
+      "nombre": "Paco",
+      "apelidos": "popo"
+    },
+    {
+      "id": "3f5f",
+      "nombre": "Juan",
+      "apelidos": "popo"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": "2",
+      "post": "Que bonito"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "post": "Que chuleta que soy, dice..."
+    }
+  ]
+}
