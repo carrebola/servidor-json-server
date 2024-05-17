@@ -1,3 +1,3 @@
 
 
-[text](db.json)
+[json base de dades](db.json)
